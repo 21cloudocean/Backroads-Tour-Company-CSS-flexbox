@@ -318,7 +318,8 @@ Hero
 }
 .hero-banner p {
   max-width: 35rem;
-  margin: 0 auto;
+  margin-left: auto;
+  margin-right: auto;
   color: var(--clr-white);
   letter-spacing: var(--spacing);
 }
